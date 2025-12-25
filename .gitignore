@@ -1,0 +1,12 @@
+# C++ binaries
+bin/
+**/bin/
+*.out
+*.exe
+*.o
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
