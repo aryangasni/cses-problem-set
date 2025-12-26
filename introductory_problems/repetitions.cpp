@@ -5,7 +5,6 @@ int main(){
 
     string s;
     cin >> s;
-    
     int ans = 1;
     int count = 1;
 
